@@ -1,0 +1,3 @@
+image_path = r'C:\Users\Akshat\OneDrive\Desktop\WhatsApp Image 2024-05-07 at 11.14.09_85738241.jpg'
+
+replace path with your own image path
